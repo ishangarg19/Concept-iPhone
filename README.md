@@ -1,2 +1,2 @@
 # Concept-iPhone
-Created a concept iPhone in Fusion 360.
+A concept iPhone made in Fusion 360.
